@@ -7,7 +7,7 @@
 | Property | Value |
 |----------|-------|
 | **Original File** | `index.php` |
-| **Size** | 27.45 MB |
+| **Size** | 6.43 MB |
 | **Status** | **Complete (100%)** |
 | **Password Protected** | **NO** |
 
